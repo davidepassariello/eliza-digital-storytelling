@@ -4,6 +4,12 @@
 
 An immersive, Italian-language, vertically scrolling digital story about **ELIZA**, the 1966 conversational program created by Joseph Weizenbaum, and the origins of the *ELIZA effect*: the tendency to attribute understanding or empathy to a computer's responses.
 
+## Live Demo
+
+🌐 [Explore the interactive ELIZA storytelling website](https://davidepassariello.github.io/eliza-digital-storytelling/)
+
+An immersive, scroll-based narrative exploring the origins of the ELIZA effect and the history of human-computer interaction.
+
 ## About the project
 
 Developed as an **academic group project** for the *Digital Storytelling Laboratory* by **Davide Passariello and Silvana Pecoraro**. The narrative adopts the point of view of ELIZA's code, interweaving historical context, excerpts from early human–machine conversations and a critical discussion of emotional projection onto machines.
