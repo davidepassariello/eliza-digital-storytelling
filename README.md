@@ -1,4 +1,4 @@
-# I silenzi di ELIZA — Interactive Digital Storytelling
+# I silenzi di ELIZA - Interactive Digital Storytelling
 
 **HTML · CSS · JavaScript · Digital Humanities · Human–Computer Interaction**
 
