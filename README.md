@@ -44,4 +44,4 @@ Educational prototype. The website is static and can be hosted with GitHub Pages
 
 ## Credits
 
-**Academic project:** All code authored by Davide Passariello. The underlying site comes from the group's submitted materials. This repository packages and documents a public-safe portfolio adaptation.
+**Academic project:** all code authored by Davide Passariello. The underlying site comes from the group's submitted materials. This repository packages and documents a public-safe portfolio adaptation.
